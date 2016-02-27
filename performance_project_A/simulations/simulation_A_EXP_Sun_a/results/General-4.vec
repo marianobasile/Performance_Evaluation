@@ -1,0 +1,21 @@
+version 2
+run General-4-20160117-11:15:06-6314
+attr configname General
+attr datetime 20160117-11:15:06
+attr experiment General
+attr inifile Carrefour_A.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=4
+attr measurement ""
+attr network simulation_A_EXP_Sun_a.Carrefour_A
+attr processid 6314
+attr repetition 4
+attr replication #4
+attr resultdir results
+attr runnumber 4
+attr seedset 4
+
+vector 0  Carrefour_A  queueingTime:vector  ETV
+attr ""  ""
+attr source  startBeingServed
+0	7	4	4
